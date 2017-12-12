@@ -1,5 +1,7 @@
 # node-js-getting-started
 
+[![Join the chat at https://gitter.im/heroku-test/Lobby](https://badges.gitter.im/heroku-test/Lobby.svg)](https://gitter.im/heroku-test/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
 This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
